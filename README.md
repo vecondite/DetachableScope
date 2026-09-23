@@ -1,6 +1,6 @@
 A fork of my [DetachableSilencer](https://github.com/vecondite/DetachableSilencer) mod that is focused on detaching scopes from snipers rather than silencers from pistols.
 
-<img width="800" height="450" alt="ezgif-827d86fe3be57c9a" src="https://github.com/user-attachments/assets/647f2df0-f457-42a0-90ed-90263d336136" />
+<img width="800" height="450" alt="ezgif-827d86fe3be57c9a" src="https://github.com/user-attachments/assets/07740474-a90a-488a-9593-f5a43570fd11" />
 
 > [!WARNING]
 > Contributors needed! I am unfortunately not able to add controller support as I do not have a controller at hand. If anybody does, and has some knowledge of plugin-sdk modding and controller-handling, please make a pull-request or contact me with one of the methods at the very bottom of this README. Thanks! and have fun!
