@@ -1,3 +1,4 @@
+# DetachableScope
 A fork of my [DetachableSilencer](https://github.com/vecondite/DetachableSilencer) mod that is focused on detaching scopes from snipers rather than silencers from pistols.
 
 <img width="800" height="450" alt="ezgif-827d86fe3be57c9a" src="https://github.com/user-attachments/assets/07740474-a90a-488a-9593-f5a43570fd11" />
