@@ -27,8 +27,8 @@ CREDITS:
 ---
 > Distributed as FOSS under the MIT license.
 - Me (vecondite): The mod itself.
-- metayeti: INI Library (https://github.com/metayeti/mINI).
-- Dryxio: Animation Editor (https://gtastuff.com/tools/ifp-editor).
+- metayeti: [INI Library](https://github.com/metayeti/mINI).
+- Dryxio: [Animation Editor](https://gtastuff.com/tools/ifp-editor).
 - LINK2012: Injector (hooking) library.
 - pedrowav and the Immersive Weapons Pack team: The immersive weapons pack models.
 - Gemini: Minor bug fixes.
